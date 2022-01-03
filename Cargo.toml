@@ -3,3 +3,6 @@ name = "algorithm"
 version = "0.1.0"
 authors = ["Li Lei <this.lilei@gmail.com>"]
 edition = "2021"
+
+[dev-dependencies]
+rand = "0.8.5"
